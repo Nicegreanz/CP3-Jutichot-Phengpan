@@ -1,0 +1,10 @@
+Foundation_Eng = int(input("Foundation English : "))
+Gen_Bu = int(input("General Business : "))
+Intro_Com_Sys = int(input("Introduction to Computer Systems : "))
+Com_Pro = int(input("Computer Programming : "))
+
+print("--- Your Score ---")
+print("Foundation English               :", Foundation_Eng)
+print("General Business                 :", Gen_Bu)
+print("Introduction to Computer Systems :", Intro_Com_Sys)
+print("Computer Progr4amming             :", Com_Pro)
